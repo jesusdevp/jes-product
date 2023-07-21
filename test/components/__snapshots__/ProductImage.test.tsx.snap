@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Debe mostrar con la url por props 1`] = `
+<img
+  alt="Product image"
+  className="productImg undefined"
+  src="https://"
+/>
+`;
+
+exports[`ProductImage Debe mostrar la imagen del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product image"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
